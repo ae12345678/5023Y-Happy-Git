@@ -1,6 +1,6 @@
 ---
 title: "Some cool animal facts"
-author: "Philip Leftwich"
+author: "Adam Easey"
 output: html_document
 ---
 
@@ -55,7 +55,18 @@ knitr::opts_chunk$set(echo = TRUE)
 
 - Can rotate their hind feet 180 degrees to climb better
 - They are not endangered, just very elusive
-- Closely related to raccoons
+- Closely related to raccoons  
+  
+#### Yoda (child)  
+
+![Image: Stolen from Disney](Grogu.jpg)
+
+##### Yoda (child) facts:
+
+- Also known as "the child"
+- likes unfertilised frog eggs & control knobs
+- strong with the force
+- Caused £25k worth of damage due to reckless driving in '87 (was not in the car.)
 
 ###
 
